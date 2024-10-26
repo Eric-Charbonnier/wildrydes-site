@@ -1,10 +1,11 @@
 window._config = {
-    cognito: {
-        userPoolId: 'ca-central-1_6UkwBv27P', // e.g. us-east-2_uXboG5pAb
-        userPoolClientId: '7thb0ej6vac6eharsr9drujrkb', // e.g. 25ddkmj4v6hfsfvruhpfi7n4hv
-        region: 'ca-central-1' // e.g. us-east-2
-    },
-    api: {
-        invokeUrl: '' // e.g. https://rc7nyt4tql.execute-api.us-west-2.amazonaws.com/prod',
-    }
+  cognito: {
+    userPoolId: "ca-central-1_6UkwBv27P", // e.g. us-east-2_uXboG5pAb
+    userPoolClientId: "7thb0ej6vac6eharsr9drujrkb", // e.g. 25ddkmj4v6hfsfvruhpfi7n4hv
+    region: "ca-central-1", // e.g. us-east-2
+  },
+  api: {
+    invokeUrl:
+      "eyJraWQiOiI4TnZFb2JpYU9ibDN6U1dmRDAwZWttY0VLYW44K0gzRHZOd1ZpbENjeDhNPSIsImFsZyI6IlJTMjU2In0.eyJzdWIiOiJiY2VkOTUyOC1mMGYxLTcwNjAtM2U5MC0zZWI1NDBlNzA3NDMiLCJlbWFpbF92ZXJpZmllZCI6dHJ1ZSwiaXNzIjoiaHR0cHM6XC9cL2NvZ25pdG8taWRwLmNhLWNlbnRyYWwtMS5hbWF6b25hd3MuY29tXC9jYS1jZW50cmFsLTFfNlVrd0J2MjdQIiwiY29nbml0bzp1c2VybmFtZSI6ImVyaWMuY2hhcmJvbm5pZXIuZGV2LWF0LWdtYWlsLmNvbSIsIm9yaWdpbl9qdGkiOiJkZTYyNTFkYy0xMjg1LTQzODUtOTAyNS1mOTQ0YzEyMzE0MTYiLCJhdWQiOiI3dGhiMGVqNnZhYzZlaGFyc3I5ZHJ1anJrYiIsImV2ZW50X2lkIjoiZjg0N2RmZmUtMTFhYi00ZGU1LTg2MmUtZTA3ODdlOGU3N2JiIiwidG9rZW5fdXNlIjoiaWQiLCJhdXRoX3RpbWUiOjE3Mjk4ODU5NjAsImV4cCI6MTcyOTg4OTU2MCwiaWF0IjoxNzI5ODg1OTYwLCJqdGkiOiI5N2E5NzZkZi1lZDNmLTQwNTctYWI4Yi0wYWZlMmJiNmI5NzIiLCJlbWFpbCI6ImVyaWMuY2hhcmJvbm5pZXIuZGV2QGdtYWlsLmNvbSJ9.Q0yXj7GLy_zxgo7p0YAbEMMjZS2GokFzMCfkT533xo4jK63pRzG5lWiQJPSUjkveP03mXGVnf8psBOTVNNC8bbMewwrNnL6SViZa8au37jkJLTlEyAMjijHHvvcZjkXNiUzjBaDAA8EdH3FnRZX7cV8RADHt4hDkg6Kcrq8omlx0aZnMA8FUW2et7WW0tHN6tNv0oZCAekbSekaa9En_grNIjebwU92U1fFyZVerSqopwRXCdk5dBbo6NxzTpeqCwAWqwk0PA7qUrGsVytM-Ak-ihc4Naqs625sfDvs2xyqBNYlf-zQ5F2Rpo9jlv2-jOl1C0w2-ufwc-DeKDXQZ6w", // e.g. https://rc7nyt4tql.execute-api.us-west-2.amazonaws.com/prod',
+  },
 };
